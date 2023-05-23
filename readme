@@ -7,6 +7,6 @@ Nesse projeto é realizado a analise e criado um modelo de Machine Learning
 para prever a eficência de Extintores de Incêndio com base em diversas variáveis.
 
 Foi utilizado a linguagem R e o Rstudio para o desenvolvimento do código e
-Randon Forest para a criação do modelo de Machine Learning.
+Randon Forest e SVM para a criação do modelo de Machine Learning.
 
 Foi alcançado aproximadamente 93% de acurácia no modelo. Foram utilizados diversos parametros para melhorar a acurácia. 
